@@ -1,2 +1,2 @@
-# where is the game you *****
-the source code is the same as regular tricky's mod (v2.1), but the game is totally diffrent. go get the binary release (for windows) in the releases section
+# How can I install and start playing?
+the source code is the same as official tricky's mod (v2.1), but the game is totally diffrent. You could take the `assets` folder from the release section and compile the game yourself from source, or you could run the `.exe` file you can find on the release section.
